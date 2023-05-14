@@ -1,4 +1,5 @@
 Bila is a good person in the world
 hello
 world
-pakistna
+pakistan
+this is text file
